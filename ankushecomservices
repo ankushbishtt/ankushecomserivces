@@ -1,0 +1,203 @@
+# ankushecomserivces
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ankush Ecom Services</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background-color: #0056b3;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    header h1 {
+      font-size: 2.8rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      margin-top: 0.5rem;
+    }
+    .logo {
+      width: 100px;
+      height: auto;
+      margin-bottom: 1rem;
+    }
+    section {
+      padding: 3rem 1rem;
+      max-width: 1100px;
+      margin: auto;
+    }
+    h2 {
+      color: #0056b3;
+      margin-bottom: 1rem;
+      font-size: 2rem;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    ul li {
+      padding: 0.6rem 0;
+      font-size: 1.1rem;
+    }
+    .contact {
+      background-color: #e0ebff;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+    .contact p {
+      font-size: 1.1rem;
+      margin-bottom: 0.8rem;
+    }
+    .whatsapp-btn {
+      display: inline-block;
+      background-color: #25d366;
+      color: white;
+      padding: 12px 25px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 1rem;
+      transition: background-color 0.3s;
+    }
+    .whatsapp-btn:hover {
+      background-color: #1ebe5d;
+    }
+    .social-links {
+      margin-top: 1.5rem;
+    }
+    .social-links a {
+      margin: 0 10px;
+      text-decoration: none;
+      color: #0056b3;
+      font-weight: bold;
+    }
+    .testimonials, .gallery {
+      background-color: #ffffff;
+      padding: 3rem 1rem;
+      border-top: 1px solid #ddd;
+      border-bottom: 1px solid #ddd;
+    }
+    .testimonial {
+      background: #f0f8ff;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-left: 5px solid #007bff;
+    }
+    .testimonial strong {
+      display: block;
+      margin-top: 0.5rem;
+      color: #0056b3;
+    }
+    .gallery img {
+      width: 100%;
+      max-width: 300px;
+      margin: 10px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .gallery-flex {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    footer {
+      text-align: center;
+      padding: 1.5rem 1rem;
+      background-color: #003d80;
+      color: #fff;
+      margin-top: 2rem;
+    }
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 2rem;
+      }
+      section {
+        padding: 2rem 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="/mnt/data/ChatGPT Image Jul 21, 2025, 11_19_23 AM.png" alt="Ankush Bisht Logo" class="logo">
+    <h1>Ankush Ecom Services</h1>
+    <p>Complete Account Management for Amazon, Flipkart & Meesho</p>
+  </header>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li>✅ New Account Setup</li>
+      <li>✅ Product Listing & Cataloging</li>
+      <li>✅ Listing Optimization (SEO)</li>
+      <li>✅ Price & Inventory Management</li>
+      <li>✅ Daily Order Processing</li>
+      <li>✅ Return & Claim Handling</li>
+      <li>✅ Ad Campaign Setup & Management</li>
+      <li>✅ Brand Store Setup</li>
+      <li>✅ A+ Content Creation</li>
+      <li>✅ Performance Monitoring & Reporting</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>About Us</h2>
+    <p>
+      With over 3 years of experience in eCommerce, we have helped 50+ sellers manage their accounts on Amazon, Flipkart, and Meesho. From account setup to advanced marketing, we handle it all professionally so you can focus on your products. Our goal is to simplify your online business journey and help you grow consistently.
+    </p>
+  </section>
+
+  <section class="testimonials">
+    <h2>Client Testimonials</h2>
+    <div class="testimonial">
+      "Ankush Ecom Services ne hamara Amazon account setup se leke daily orders tak sab kuch handle kiya. Highly recommended!"
+      <strong>- Rakesh Traders</strong>
+    </div>
+    <div class="testimonial">
+      "Meesho aur Flipkart listing mein fast response aur accuracy milegi. Bahut hi acchi service."
+      <strong>- FashionMart India</strong>
+    </div>
+  </section>
+
+  <section class="gallery">
+    <h2>Service Snapshots</h2>
+    <div class="gallery-flex">
+      <img src="https://via.placeholder.com/300x200.png?text=Dashboard" alt="Service Dashboard">
+      <img src="https://via.placeholder.com/300x200.png?text=Listings" alt="Product Listing">
+      <img src="https://via.placeholder.com/300x200.png?text=Ads+Report" alt="Ad Report">
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Us</h2>
+    <p>📞 Phone: 7042319399</p>
+    <p>📧 Email: ankushecomservices@gmail.com</p>
+    <a class="whatsapp-btn" href="https://wa.me/917042319399" target="_blank">Chat on WhatsApp</a>
+
+    <div class="social-links">
+      <a href="#">Instagram</a> |
+      <a href="#">Facebook</a> |
+      <a href="#">LinkedIn</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Ankush Ecom Services. All rights reserved.</p>
+  </footer>
+</body>
+</html>
